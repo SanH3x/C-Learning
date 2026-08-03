@@ -15,7 +15,7 @@ double calcularMedia(double a, double b, double c) {
 
 int main() {
     std::string nome = "Heitor";
-    double nota1 = 6.5, nota2 = 8.5, nota3 = 7.0;
+    double nota1 = 5.5, nota2 = 7.5, nota3 = 9.0;
     
     std::cout << "Aluno: " << nome << "\n";
     std::cout << "Media: " << calcularMedia(nota1, nota2) << "\n";
@@ -23,3 +23,4 @@ int main() {
 
     return 0;
 }
+
