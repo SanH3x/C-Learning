@@ -1,9 +1,8 @@
-![alt text](image.png)Trilha de Estudo — C++ para Back-end & Data Science
+# 🔔 Trilha de Estudo — C++ para Back-end & Data Science (Sino por ser desenvolvido pela Nokia Bells Labs)
 
 Repositório com meu progresso estudando C++ de forma estruturada, com foco em aplicação prática para vagas de desenvolvedor back-end e data science. Cada fase contém exercícios, exemplos comentados e, quando aplicável, um mini-projeto de checkpoint.
 
-Estudo conduzido em paralelo à graduação, com ênfase em fundamentos sólidos (memória, STL, C++ moderno) antes de avançar para frameworks e bibliotecas de mais alto nível.
-
+## Estrutura do Repositório
 .
 ├── F1-Fundamentos/
 ├── F2-Ponteiros-Memoria/
@@ -15,12 +14,12 @@ Estudo conduzido em paralelo à graduação, com ênfase em fundamentos sólidos
 ├── F8-Boas-Praticas/
 └── README.md
 
-Requisitos para compilar
+## Requisitos para compilar
 Compilador com suporte a C++17 ou superior (GCC/MinGW ou MSVC)
 CMake (a partir da Fase 6)
 Bibliotecas específicas por fase (ex.: Eigen na Fase 7) — instruções detalhadas no README de cada pasta
 
-Tecnologias e bibliotecas exploradas
+## Tecnologias e bibliotecas exploradas
 STL — containers, algoritmos, iteradores
 Concorrência — std::thread, std::async, std::mutex
 Back-end — Crow / Drogon, libpqxx, SQLite
