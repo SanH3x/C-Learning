@@ -1,0 +1,32 @@
+Os arquivos em Principais STLs estão divididas em pastas com os arquivos:
+
+•Containers Sequenciais:
+    •contarray.cpp
+    •contdeque.cpp
+    •contlisim.cpp
+    •contlista.cpp
+    •contvetor.cpp
+
+•Adapatadores de Containers:
+    •adapilha.cpp
+    •adapqueue.cpp   
+    •adapfilapr/cpp
+
+•Containers Associativos:
+    •contset.cpp
+    •contmultset.cpp
+    •contmap.cpp
+    •contmultmap.cpp
+
+•Containers não-ordenados (HashTable):
+    •hashunset.cpp
+    •hashunmap.cpp
+    •hashunmapset.cpp
+
+•Utilitários:
+    •ultipar.cpp
+    •ultitupla.cpp
+
+•Iteradores - iteradores.cpp
+
+•Algoritmos - algoritmos.cpp

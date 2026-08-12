@@ -31,6 +31,8 @@ Estudo conduzido em paralelo à graduação, com ênfase em fundamentos sólidos
 - [CMake](https://cmake.org/) (a partir da Fase 6)
 - Bibliotecas específicas por fase (ex.: Eigen na Fase 7) — instruções detalhadas no README de cada pasta
 
+### Compilando um exemplo (g++)
+
 
 ---
 
