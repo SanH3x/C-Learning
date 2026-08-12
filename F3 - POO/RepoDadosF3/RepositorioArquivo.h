@@ -8,6 +8,7 @@
 #include <string>
 
 template<typename T>
+
 class RepositorioArquivo : public Repositorio<T> {
 
 private:

@@ -4,6 +4,7 @@
 #include <vector>
 
 template<typename T>
+
 class Repositorio {
 public:
     virtual ~Repositorio() = default;
