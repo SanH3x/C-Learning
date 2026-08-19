@@ -110,7 +110,7 @@ int main() {
     Buffer c = criarBuffer();   // Movimento (ou RVO)
 
     Buffer d;
-    d = a;                      // Atribuição por cópia
+    d = c;                      // Atribuição por cópia
 
     Buffer e;
     e = std::move(c);           // Movimento
