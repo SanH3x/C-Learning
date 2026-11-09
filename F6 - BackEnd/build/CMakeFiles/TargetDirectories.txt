@@ -1,0 +1,3 @@
+C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6 - BackEnd/build/CMakeFiles/api_crow.dir
+C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6 - BackEnd/build/CMakeFiles/edit_cache.dir
+C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6 - BackEnd/build/CMakeFiles/rebuild_cache.dir

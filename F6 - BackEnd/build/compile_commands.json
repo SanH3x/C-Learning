@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6 - BackEnd/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DASIO_STANDALONE @CMakeFiles\\api_crow.dir\\includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\api_crow.dir\\src\\main.cpp.obj -c \"C:\\Users\\heito\\VSCProjects\\C++ Learning\\CLearning\\F6 - BackEnd\\src\\main.cpp\"",
+  "file": "C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6 - BackEnd/src/main.cpp",
+  "output": "CMakeFiles/api_crow.dir/src/main.cpp.obj"
+}
+]
