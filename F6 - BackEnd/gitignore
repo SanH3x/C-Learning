@@ -4,3 +4,6 @@ build/
 *.obj
 *.ilk
 *.pdb
+*.db
+*.db-shm
+*.db-wal
