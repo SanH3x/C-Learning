@@ -1,0 +1,3 @@
+C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6API_CRUD/build/CMakeFiles/tasks_api.dir
+C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6API_CRUD/build/CMakeFiles/edit_cache.dir
+C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6API_CRUD/build/CMakeFiles/rebuild_cache.dir

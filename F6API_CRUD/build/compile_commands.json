@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6API_CRUD/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -D_WIN32_WINNT=0x0A00 @CMakeFiles\\tasks_api.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\tasks_api.dir\\src\\main.cpp.obj -c \"C:\\Users\\heito\\VSCProjects\\C++ Learning\\CLearning\\F6API_CRUD\\src\\main.cpp\"",
+  "file": "C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6API_CRUD/src/main.cpp",
+  "output": "CMakeFiles/tasks_api.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6API_CRUD/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -D_WIN32_WINNT=0x0A00 @CMakeFiles\\tasks_api.dir\\includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\tasks_api.dir\\src\\database.cpp.obj -c \"C:\\Users\\heito\\VSCProjects\\C++ Learning\\CLearning\\F6API_CRUD\\src\\database.cpp\"",
+  "file": "C:/Users/heito/VSCProjects/C++ Learning/CLearning/F6API_CRUD/src/database.cpp",
+  "output": "CMakeFiles/tasks_api.dir/src/database.cpp.obj"
+}
+]
